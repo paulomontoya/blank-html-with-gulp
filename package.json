@@ -1,0 +1,21 @@
+{
+  "name": "blank-html-with-gulp",
+  "version": "1.0.0",
+  "description": "Blank Template with Gulp and Stylus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulo Montoya",
+  "repository": { 
+    "type": "git", 
+    "url": "https://github.com/paulomontoya/blank-html-with-gulp.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^2.1.0",
+    "gulp": "^3.9.0",
+    "gulp-stylus": "^2.1.1",
+    "gulp-watch": "^4.3.5"
+  }
+}
